@@ -8,7 +8,7 @@
 
 ## Funcionalidades
 
-A API recebe dois números e uma operação matemática: soma, subtracao, multiplicacao, divisao.
+A API recebe dois números e uma operação matemática: soma, subtração, multiplicação, divisão.
 
 ## Requisição esperada
 
