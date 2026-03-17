@@ -12,9 +12,9 @@ A API recebe dois números e uma operação matemática: soma, subtracao, multip
 
 ## Requisição esperada
 
-{
- "a": 10,
- "b": 5,
- "operacao": "soma",
- "resultado": 15
-}
+{ <br>
+ "a": 10, <br>
+ "b": 5, <br>
+ "operacao": "soma", <br>
+ "resultado": 15 <br>
+} <br>
